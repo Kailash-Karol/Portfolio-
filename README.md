@@ -150,10 +150,10 @@ This project is open source and available under the [MIT License](LICENSE).
 **Kailash** is a passionate BCA student from Shridhar University with a keen interest in frontend development. This portfolio showcases his journey, projects, and skills in web development.
 
 ### Contact Information
-- **Email**: kailash@example.com
+- **Email**: kailashkumar.5676@gmail.com
 - **Location**: Shridhar University, Pilani
-- **GitHub**: [Your GitHub Profile]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **GitHub**: [Kailash-Karol]
+- **LinkedIn**: [Kailash Kumar]
 
 ## 🎉 Acknowledgments
 
